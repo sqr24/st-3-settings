@@ -1,0 +1,18 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AutoFileName",
+		"BracketHighlighter",
+		"Emmet",
+		"Monokai - Spacegray",
+		"Package Control",
+		"Sass",
+		"SideBarEnhancements",
+		"Theme - SoDaReloaded",
+		"Theme - Spacegray"
+	]
+}
